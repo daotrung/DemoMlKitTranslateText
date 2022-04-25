@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645129485459",
+    "project_id": "texttranslatedemo3108mlkit",
+    "storage_bucket": "texttranslatedemo3108mlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645129485459:android:7cc83da112d73138412166",
+        "android_client_info": {
+          "package_name": "com.daotrung.demomlkittranslatetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645129485459-bp7cic9fcnpacdef38n1kmtpujupsct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYy_0B3CPFMh3RVegtuUHsrVOtxlRXFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645129485459-bp7cic9fcnpacdef38n1kmtpujupsct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
